@@ -1,6 +1,7 @@
 # Single Image Haze Removal using a GAN
 
 This repository contains an implementation of the paper ["Single Image Haze Removal using a Generative Adversarial Network"](https://arxiv.org/abs/1810.09479) for image dehazing.
+Output test folder: https://drive.google.com/file/d/1qFU92-fII6bDWWOJHMyS89xtJUGQtoro/view?usp=sharing 
 
 ## Model Architecture
 
